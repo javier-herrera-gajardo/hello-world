@@ -2,4 +2,4 @@
 simple excercise to get started on GitHub :)
 
 
-I like paste
+I like pasta
